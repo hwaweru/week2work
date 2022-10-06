@@ -1,6 +1,6 @@
-Hellen's Biography/Profile
+Hellen's Akan Java age calculator
 
-#### This project is about the biography of Hellen, Version Date: 7th Oct 2022
+#### This project is about Akan Java age calculator, Version Date: 7th Oct 2022
 
 #### By **Hellen Waweru**
 

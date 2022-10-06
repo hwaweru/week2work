@@ -1,6 +1,6 @@
 Hellen's Biography/Profile
 
-#### This project is about the biography of Hellen, Version Date: 9th Sept 2022
+#### This project is about the biography of Hellen, Version Date: 7th Oct 2022
 
 #### By **Hellen Waweru**
 
@@ -22,7 +22,7 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding. 
+Languages used include HTML,Javascript CSS(Bootstrap). I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding. 
 
 ## Support and contact details
 

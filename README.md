@@ -6,12 +6,14 @@ Hellen's Akan Java age calculator
 
 ## Description
 
-This is a project about the biography of Hellen, the purpose and usage of the project is to state more information on Hellen's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
+This is a project about Akan Java age calculator, This project is my week two independent project.  I have built a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+
+Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which ce and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
 
 ## Setup/Installation Requirements
 
-- This is a great place to be, to learn more on Hellen
-- You will learn on Hellen's Background including education, job experience etc.
+- Learn about Ghana's Akan naming
+- Extract your Akan Name.
 - You will learn on Hellen's reason for doing the course.
 - The project is easy-to-understand
 - Just click on the hyperlinks that will direct you to view Github projects.
@@ -30,7 +32,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ## Github URL Link
 
-To view project click  https://hwaweru.github.io/moringa-assignment/
+To view project click https://github.io.com/hwaweru/week2work.git
 
 
 ### License

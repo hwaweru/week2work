@@ -25,3 +25,9 @@ div {
   padding: 5px;
   margin: 5px;
 }
+li {
+  list-style: lower-roman;
+}
+ol {
+  text-decoration: underline;
+}

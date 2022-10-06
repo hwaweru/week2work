@@ -1,22 +1,19 @@
-Hellen's Akan Java age calculator
+Ghana's Akan name calculator
 
-#### This project is about Akan Java age calculator, Version Date: 7th Oct 2022
+#### This project is about Ghana's Akan naming culture, Version Date: 7th Oct 2022
 
 #### By **Hellen Waweru**
 
 ## Description
 
-This is a project about Akan Java age calculator, This project is my week two independent project.  I have built a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
-
-Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which ce and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
+This project is my week two independent project, and its about Ghana's Akan naming culture.The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. I have built a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
 ## Setup/Installation Requirements
 
 - Learn about Ghana's Akan naming
 - Extract your Akan Name.
-- You will learn on Hellen's reason for doing the course.
-- The project is easy-to-understand
-- Just click on the hyperlinks that will direct you to view Github projects.
+- The project is easy-to-understand.
+
 
 ## Known Bugs
 
@@ -24,7 +21,7 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
-Languages used include HTML,Javascript CSS(Bootstrap). I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding. 
+Languages used include HTML,CSS(Bootstrap) and Javascript .I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding. 
 
 ## Support and contact details
 

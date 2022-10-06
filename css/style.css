@@ -1,9 +1,9 @@
 h2 {
-  font-size: larger;
+  font-size: large;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-style: italic;
-  color: blue;
-  font-weight: 400;
+  color: black;
+  text-decoration: underline;
 }
 body {
   background-color: cadetblue;
@@ -12,7 +12,7 @@ p {
   font-size: medium;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: medium;
-  color: blue;
+  color: black;
 }
 img {
   border-style: solid;

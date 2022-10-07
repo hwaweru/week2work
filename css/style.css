@@ -31,3 +31,6 @@ li {
 ol {
   text-decoration: underline;
 }
+#results { display: none;
+
+}

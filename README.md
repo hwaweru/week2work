@@ -1,19 +1,27 @@
-Ghana's Akan name calculator
+## Project Name
+
+Ghana's Akan Naming Culture
 
 #### This project is about Ghana's Akan naming culture, Version Date: 7th Oct 2022
 
 #### By **Hellen Waweru**
 
-## Description
+## Project Description
 
-This project is my week two independent project, and its about Ghana's Akan naming culture.The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. I have built a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+This project is my week two independent project, and its about Ghana's Akan naming culture.The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. I have built a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
 ## Setup/Installation Requirements
 
-- Learn about Ghana's Akan naming
-- Extract your Akan Name.
-- The project is easy-to-understand.
+- Git clone: https://github.com/hwaweru/week2work.git
+- Launch code on VS code.
+- Launch on live link.
 
+## BDD
+
+-See a small description of what the application does on the landing page.
+-Enter birthday through a form
+-Choose gender.
+-Click the submit button to see what my Akan name would be
 
 ## Known Bugs
 
@@ -21,7 +29,11 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
-Languages used include HTML,CSS(Bootstrap) and Javascript .I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding. 
+-HTML
+-CSS
+-Bootstrap  
+-JavaScript
+-GIT
 
 ## Support and contact details
 
@@ -29,8 +41,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ## Github URL Link
 
-To view project click https://github.io.com/hwaweru/week2work.git
-
+To view project click : https://github.io.com/hwaweru/week2work.git
 
 ### License
 

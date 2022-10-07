@@ -18,7 +18,7 @@
       }
       else if( document.myForm.date.value == "" || isNaN( document.myForm.month.value ) || 
       document.myForm.month.value.length != 2|| document.myForm.date.value > 31 || document.myForm.date.value <= 0) {
-         alert( "Please provide a valid date that you were born in!" );
+         alert( "Please provide a valid date of birth" );
          document.myForm.day.focus() ;
          return false;
       }

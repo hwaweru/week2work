@@ -18,7 +18,7 @@
   <body>
     <div class="container">
       <div class="jumbotron">
-      <h2>AKAN NAMING</h2>
+      <h2>GHANA'S AKAN NAMING CULTURE.</h2>
       <p>
         The Akan are the largest ethnic group in both Ghana and the Ivory Coast.
         The Akan speak Kwa languages which are part of the larger Niger-Congo
@@ -43,35 +43,56 @@
       </div>
 
       <p>Here are Ghanian day names;</p>
+      <p> For baby boy is it Kwasi,Kwadwo,Kwabena, Kwaku,Yaw,Kofi or Kwame?  </p>
+      <p>For baby girl is it Akosua,Adwoa,Abenaa, Akua, Yaa, Afua or Ama?</p>
+      <p>Well, just input your birthday below?</p>
 
-      <ul>
-        <ol>
-          Male
-        </ol>
-      </ul>
-      <ul>
-        <li>Sunday: Kwasi</li>
-        <li>Monday: Kwadwo</li>
-        <li>Tuesday: Kwabena</li>
-        <li>Wednesday: Kwaku</li>
-        <li>Thursday: Yaw</li>
-        <li>Friday: Kofi</li>
-        <li>Saturday: Kwame</li>
-      </ul>
-      <ul>
-        <ol>
-          Female
-        </ol>
-      </ul>
-      <ul>
-        <li>Sunday: Akosua</li>
-        <li>Monday: Adwoa</li>
-        <li>Tuesday: Abenaa</li>
-        <li>Wednesday: Akua</li>
-        <li>Thursday: Yaa</li>
-        <li>Friday: Afua</li>
-        <li>Saturday: Ama</li>
-      </ul>
+      
     </div>
+    <div class="overlay">
+      <div class="container">
+        <h2>Enter Your Age and Gender in Form below!</h2>
+        <form name="myForm" class="form" onsubmit="validate();">
+          <div class="form-group">
+            <label for="number">Year of Birth:</label>
+            <input type="number" class="form-control" id="year" placeholder="Year of Birth Eg: 2020 if born in 2022" name="year">
+          </div>
+          <div class="form-group">
+            <label for="month">Month of Birth:</label>
+            <input type="number" class="form-control" id="month" placeholder="Month of Birth eg 01 for Jan" name="month">
+          </div>
+          <div class="form-group">
+            <label for="date">Date of Birth:</label>
+            <input type="number" class="form-control" id="date" placeholder="Date of Birth eg 05 for day" name="date">
+          </div>
+          <div class="form-group">
+            <label for="month">Gender</label><br>
+            <div class="form-check-inline">
+              <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="gender" id="male">&nbsp; Male 
+              </label>
+            </div>
+            <div class="form-check-inline">
+              <label class="form-check-label">
+                <input type="radio" class="form-check-input" name="gender" id="female">&nbsp; Female 
+              </label>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary" onclick="findName();">Find Your Akan Name</button>
+          <br>
+        </form>
+        <p id="results"> </p>
+      </div>
+  </div>
+  <div class="card-deck">
+      <div class="card ">
+        <div class="card-body text-center">
+          <p class="card-text">Your Akan Names generated are based on gender and the date you were born. <br>
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-globe fa-stack-1x" style="color:rgb(248, 249, 250)"></i>
+              </span><a href="https://en.wikipedia.org/wiki/Akan_names"> More information on Akan names, click on the link.</a>
+          </p>
+        </div>
+<script src="/js/main.js"></script>
   </body>
 </html>
